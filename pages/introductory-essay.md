@@ -7,6 +7,8 @@ permalink: introductory-essay
 using HTML or markdown.  Do not modify this file above this line -->
 <h2><i>Radio Venceremos</i>: An Essay in English </h2>
 <hr>
+Here is the link to the introductory essay in <a href="https://lgsump.github.io/los-sonidos-de-guerra/ensayo-introductorio">Spanish</a>
+<hr>
 <br>
 <i>Radio Venceremos</i> was a radio broadcasted during the Civil War in El Salvador by the Farabundo Martí National Liberation Front, or FMLN. The Salvadoran Civil War was characterized like many rebel movements after World War II in Latin America that represented the struggle against authoritarian regimes that were imposed by the US government in securing the Western hemisphere against communism. The role of the Cuban Revolution in 1959 definitely played an integral role in allowing movements like those in El Salvador to believe that fighting and winning against the US-backed authoritative governments was a possibility. Unlike Chile or Nicaragua, whose revolutionary movements were squashed completely by the open military of the home governments as well as the covert operation of the CIA in the 1970s, the ending of the Salvadoran Civil War came with peace agreement between the FMLN and the current regime. This led to specific terms and promises to be made by the current regime, and ultimately, falling short in keeping those promises. Though the FMLN did become an official political party in El Salvador, some of the organizations that were in it at the beginning had left or changed. In the process of transition from revolutionary rebels to official politicians, many of the original reasons for revolution such as poverty and vast inequality between ordinary Salvadorans and city elites were left unaddressed.
 <br>
