@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/the-sounds-of-war/annotations/1981-05-20-annotations-in-english-canvas-1-radio-venceremos.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-in-english-canvas-1-radio-venceremos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Although the reality is that El Salvador is governed by militaries that torture and violate human rights.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations-in-english/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.003686,275.191135"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-in-english-canvas-1-radio-venceremos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "United to fight until final victory, revolution, or death, we will prevail!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations-in-english/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "339.426076,348.366468"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-in-english-canvas-1-radio-venceremos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In this manner, Radio Venceremos, the official voice of the Farabundo Marti for National Liberation Front has reached the end of this hour’s broadcast. Radio Venceremos is on the air every day from 6 to 7 in the morning and from 6 to 7 in the evening. Radio Venceremos, the expression of popular power over the territories under the control of our armed people.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations-in-english/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "308.543893"
+        }
+      }
+    }
+  ]
+}
