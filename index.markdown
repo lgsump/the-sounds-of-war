@@ -4,8 +4,8 @@
 
 layout: home
 ---
-<h2> The Sounds of War:</h2>
-<h4> The Violence Reported in <i>Radio Venceremos</i> Broadcasts, 1981-1990
+<p style="text-align:center;"><h2> The Sounds of War:</h2>
+<h4> The Violence Reported in <i>Radio Venceremos</i> Broadcasts, 1981-1990</p>
 <hr>
 <br>
 <p style="text-align:center;"><img width="459" alt="Screen Shot 2023-02-10 at 6 49 09 PM" src="https://user-images.githubusercontent.com/122332459/218227951-0b39412c-2a5e-4be6-bc74-3233c31852f7.png"></p>
