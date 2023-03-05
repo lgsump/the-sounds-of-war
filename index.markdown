@@ -15,3 +15,5 @@ layout: home
 <i>Radio Venceremos</i> was the radio-broadcasted program that served as propaganda and commentary against the oppression of the Salvadoran government during the Salvadoran Civil War (1979-1992), though the radio station would continue to run some time after the peace agreement in 1992. <i>Radio Venceremos</i>, or ‘We Will Win’ in English, served as a tool for the Farabundo Martí National Liberation Front (FMLN) to coordinate and communicate with ordinary Salvadorans in encouraging their role in the revolutionary effort, but also served as way to spread news and keep people up to date on the government’s atrocities and recent attacks.
 <br>
 <hr>
+Here is a link to the project in <a href="https://lgsump.github.io/los-sonidos-de-guerra/">Spanish</a>.
+<hr>
