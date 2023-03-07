@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/the-sounds-of-war/annotations/1981-05-20-annotations-canvas-1-political-context.json",
+  "type": "AnnotationPage",
+  "label": "Political Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-canvas-1-political-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SUCA (The Central American University Superior Council) demands the liberation of Salvadoran refugees held in Honduras. The Central American University Superior Council called on Honduran authorities to respect the lives and dignity of the Salvadoran refugees in their custody and demanded their immediate release.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.178202,63.285702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-canvas-1-political-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Faced with the citizen commentary on the incident, they wanted to conceal the strong contradictions by declaring that they had been attacked by more than 200 guerrilla fighters.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.388306,174.159986"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-canvas-1-political-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Duarte, straw man, declares Venezuelan ex-president. Former Venezuelan ex-president, Carlos Andres Perez, declared in Caracas that North American imperialists have deceitfully stated that in Latin America exists a battle between communism and anticommunism, and that they consider the most reactionary military their best guarantee for their interests.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "182.714437,215.57308"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1981-05-20-annotations-canvas-1-political-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The former head of state asserted that the problem in Latin America is not communism but respect for human rights. Additionally, he said that Venezuela aligning itself with the United States government’s new policies, the South American country is falling into serious confusion.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216.28337,241.436909"
+        }
+      }
+    }
+  ]
+}
