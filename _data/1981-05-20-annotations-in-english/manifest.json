@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/the-sounds-of-war/annotations/1981-05-20-annotations-in-english-canvas-1-casualties.json",
-            "label": {
-              "none": ["Casualties"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/the-sounds-of-war/annotations/1981-05-20-annotations-in-english-canvas-1-sound-effects.json",
             "label": {
               "none": ["Sound Effects"]
