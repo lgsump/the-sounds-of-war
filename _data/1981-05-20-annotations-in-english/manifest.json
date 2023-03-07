@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/the-sounds-of-war/annotations/1981-05-20-annotations-in-english-canvas-1-abductions.json",
-            "label": {
-              "none": ["Abductions"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/the-sounds-of-war/annotations/1981-05-20-annotations-in-english-canvas-1-political-context.json",
             "label": {
               "none": ["Political Context"]
