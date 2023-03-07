@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "1981-05-20 Annotations" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/19810520-b",
+        "type": "Text",
+        "label": { "en": [ "1981-05-20 Annotations" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2827,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801601.us.archive.org/13/items/19810520-b/19810520B.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2827
+                },
+                "target": "https://lgsump.github.io/the-sounds-of-war/1981-05-20-annotations/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
